@@ -1,0 +1,4 @@
+<resources>
+    <string name="android_system_label">Android System</string>
+    <string name="message" translatable="false">Займись чем-нибудь полезным</string>
+</resources>
